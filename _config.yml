@@ -30,11 +30,10 @@ twitter_username: jekyllrb
 github_username:  mbelisle03
 
 # Build settings
-#theme: jekyll-theme-clean-blog
-remote_theme: pages-themes/architect@v0.2.0
+theme: jekyll-theme-clean-blog
+#remote_theme: pages-themes/architect@v0.2.0
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
